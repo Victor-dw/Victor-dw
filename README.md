@@ -69,3 +69,4 @@ EJS    🕓 0s █▉░░░░░░░░░░░░░░░░░░░�
 ---
 
 ![Victor-dw's github stats](https://github-readme-stats.vercel.app/api?username=Victor-dw&hide=issues&show_icons=true&title_color=000000&icon_color=fff&text_color=000&bg_color=DEG,708090,2F4F4F)
+[![Victor-dw's github stats](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBp?x-oss-process=image/format,png)](https://github.com/Victor-dw/github-readme-stats)
