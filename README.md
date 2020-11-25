@@ -1,6 +1,6 @@
 ## Hello,World!
 
-我是 Sanksu，以下内容通过 [GitHub Actions](https://github.com/sanksu/sanksu/actions) 自动更新，感谢 [Tw93/Github 首页自动信息工作流](https://github.com/tw93/tw93)
+我是 Victor，以下内容通过 [GitHub Actions](https://github.com/Victor-dw/Victor-dw/actions) 自动更新，感谢 [Tw93/Github 首页自动信息工作流](https://github.com/tw93/tw93)
 
 <table width="800px">
 <tr>
