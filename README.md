@@ -68,4 +68,4 @@ EJS    🕓 0s █▉░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-![Sanksu's github stats](https://github-readme-stats.vercel.app/api?username=Victor-dw&hide=issues&show_icons=true&title_color=000000&icon_color=fff&text_color=000&bg_color=DEG,708090,2F4F4F)
+![Victor-dw's github stats](https://github-readme-stats.vercel.app/api?username=Victor-dw&hide=issues&show_icons=true&title_color=000000&icon_color=fff&text_color=000&bg_color=DEG,708090,2F4F4F)
