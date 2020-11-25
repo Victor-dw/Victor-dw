@@ -70,3 +70,6 @@ EJS    🕓 0s █▉░░░░░░░░░░░░░░░░░░░�
 
 [![Victor's github stats](https://github-readme-stats.vercel.app/api?username=Victor-dw)](https://github.com/anuraghazra/github-readme-stats)
 
+[![](https://github.com/Victor-dw/Victor-dw/blob/master/dino.gif)](#)
+
+
