@@ -48,7 +48,7 @@ EJS    🕓 0s █▉░░░░░░░░░░░░░░░░░░░�
 <td valign="top" width="50%">
 
 
-#### 🏋️‍♀️ <a href="https://github.com/DWVictor/DWVictor/blob/master/releases.md" target="_blank">Product Releases</a>
+#### 🏋️‍♀️ <a href="https://github.com/Victor-dw/Victor-dw/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
 
@@ -68,4 +68,4 @@ EJS    🕓 0s █▉░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-![Sanksu's github stats](https://github-readme-stats.vercel.app/api?username=sanksu&hide=issues&show_icons=true&title_color=000000&icon_color=fff&text_color=000&bg_color=DEG,708090,2F4F4F)
+![Sanksu's github stats](https://github-readme-stats.vercel.app/api?username=Victor-dw&hide=issues&show_icons=true&title_color=000000&icon_color=fff&text_color=000&bg_color=DEG,708090,2F4F4F)
