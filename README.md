@@ -18,7 +18,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🎣 <a href="https://sanksu.top/" target="_blank">Recent Blog</a>
+#### 🎣 <a href="https://www.cnblogs.com/DWVictor/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
 
@@ -66,7 +66,7 @@ EJS    🕓 0s █▉░░░░░░░░░░░░░░░░░░░�
 <tr>
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ <a href="https://github.com/sanksu/sanksu/blob/main/releases.md" target="_blank">Product Releases</a>
+#### 🏋️‍♀️ <a href="https://github.com/DWVictor/DWVictor/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
 
